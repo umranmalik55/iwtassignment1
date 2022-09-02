@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  border: 10px;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.in {
+  text-align: center;
+}
+.login {
+  padding: 20px;
+
+  padding-bottom: 30px;
+}
+
+.cn {
+  padding: 20px;
+  margin: 20px;
+}
